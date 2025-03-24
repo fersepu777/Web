@@ -1,0 +1,53 @@
+#capa1 {
+    background-color: #333;
+    color: #fff;
+    width: 25vw;
+    height: 25vw;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #fff;
+    border: 5px solid;
+    border-radius: 15%;
+    border-top-color: #f00;
+    border-right-color: #0f0;
+    border-bottom-color: #f00;
+    border-left-color: #0f0;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+#capa2 {
+    background-color: aliceblue;
+    color: #333;
+    width: 25vw;
+    height: 25vw;
+    border: 2px solid #fff;
+    margin-top: 10px;
+    overflow: auto;    
+
+}
+#uno {background-color: #f00;}
+#dos{background-color: #0f0;}
+#Tres{background-color: sienna;}
+
+#uno,#dos,#Tres{
+
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: right;
+}
+h3{
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+
+}
+
+body{
+    background-color: #b6d6f2;
+    background-image: url('../image/fondo.webp');
+    background-attachment: fixed;
+    
+}
