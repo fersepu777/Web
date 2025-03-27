@@ -1,0 +1,63 @@
+#capa1 {
+    background-color: #333;
+    color: #fff;
+    width: 25vw;
+    height: 25vw;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #fff;
+    border: 5px solid;
+    border-radius: 15%;
+    border-top-color: #f00;
+    border-right-color: #0f0;
+    border-bottom-color: #f00;
+    border-left-color: #0f0;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+#capa2 {
+    background-color: aliceblue;
+    color: #333;
+    width: 25vw;
+    height: 25vw;
+    border: 2px solid #fff;
+    margin-top: 10px;
+    overflow: auto;    
+
+}
+#uno {background-color: yellow;}
+#dos{background-color: gray;}
+#Tres{background-color: gainsboro;}
+#cuatro{background-color: #f00;}
+#uno,#dos,#Tres,#cuatro{
+    
+    color: #333;
+    width: 10vw;
+    height: 10vw;
+    border: 2px solid #fff;
+    margin-top: 10px;
+    
+    text-align: center;
+}
+h3{
+    color: #fff;
+    font-size: 30px;
+    
+    width: 10vw;
+    height: 10vw;
+    padding-top: 6px;
+    box-sizing: border-box;
+    
+    
+    
+    
+    overflow: auto; 
+}
+
+body{
+    background-color: #b6d6f2;
+    background-image: url('../image/fondo.webp');
+    background-attachment: fixed;
+    
+}
